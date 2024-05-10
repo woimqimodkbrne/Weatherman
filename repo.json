@@ -7,17 +7,17 @@
     "Changelog": "6.5 update",
     "IsHide": false,
     "InternalName": "Weatherman",
-    "AssemblyVersion": "2.3.0.0",
-    "TestingAssemblyVersion": "2.3.0.0",
+    "AssemblyVersion": "2.4.0.9",
+    "TestingAssemblyVersion": "2.4.0.9",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/NightmareXIV/Weatherman",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
     "DownloadCount": 3528,
     "LastUpdate": 1696318565,
-    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.3.0.0/Weatherman.zip",
-    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.3.0.0/Weatherman.zip",
-    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.3.0.0/Weatherman.zip",
+    "DownloadLinkInstall": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.4.0.9/Weatherman.zip",
+    "DownloadLinkUpdate": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.4.0.9/Weatherman.zip",
+    "DownloadLinkTesting": "https://github.com/woimqimodkbrne/Weatherman/releases/download/2.4.0.9/Weatherman.zip",
     "SupportsProfiles": true
   }
 ]
